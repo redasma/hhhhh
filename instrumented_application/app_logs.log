@@ -1,0 +1,991 @@
+
+{
+  "timestamp" : "2022-12-30 17:22:44.349",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=0, name=fresh ground steak, price=20.0, expirationString=11/11/26]"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.367",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "0"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.368",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=1, name=cheese omelette, price=10.0, expirationString=11/11/27]"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.368",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "1"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.369",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=2, name=baguette, price=1.0, expirationString=11/11/28]"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.369",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.369",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=3, name=croissant, price=2.0, expirationString=11/11/29]"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.369",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.369",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=4, name=pain aux chocolat, price=2.5, expirationString=11/12/01]"
+}
+{
+  "timestamp" : "2022-12-30 17:22:44.370",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:22:47.643",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "diplayProducts",
+  "userID" : "1",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:23:23.698",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=5, name=burger cantal, price=11, expirationString=22/12/2022]"
+}
+{
+  "timestamp" : "2022-12-30 17:23:23.699",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:23:36.402",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:24:06.618",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of updateProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "updateProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=5, name=burger cantal, price=12, expirationString=23/12/2022]"
+}
+{
+  "timestamp" : "2022-12-30 17:24:06.619",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of deleteProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "deleteProduct",
+  "userID" : "1",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:24:06.619",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:24:06.619",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=5, name=burger cantal, price=12, expirationString=23/12/2022]"
+}
+{
+  "timestamp" : "2022-12-30 17:24:06.619",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:24:39.826",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "addProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=6, name=burger chevre, price=13, expirationString=31/12/2022]"
+}
+{
+  "timestamp" : "2022-12-30 17:24:39.826",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "6"
+}
+{
+  "timestamp" : "2022-12-30 17:24:47.858",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of deleteProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "deleteProduct",
+  "userID" : "1",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:24:47.858",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:25:26.986",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of updateProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "updateProduct",
+  "userID" : "1",
+  "parameters" : "Product [ID=baguette, name=baguette, price=1.0, expirationString=11/11/27]"
+}
+{
+  "timestamp" : "2022-12-30 17:25:26.986",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of deleteProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "deleteProduct",
+  "userID" : "1",
+  "parameters" : "baguette"
+}
+{
+  "timestamp" : "2022-12-30 17:25:26.987",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "fetchProduct",
+  "userID" : "1",
+  "parameters" : "baguette"
+}
+{
+  "timestamp" : "2022-12-30 17:25:34.522",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=1, name=red, age=22, email=redouaneasma1@gmail.com, password=redred]",
+  "Operation" : "diplayProducts",
+  "userID" : "1",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.260",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "addProduct",
+  "userID" : "2",
+  "parameters" : "Product [ID=0, name=fresh ground steak, price=20.0, expirationString=11/11/26]"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.279",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "0"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.279",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "addProduct",
+  "userID" : "2",
+  "parameters" : "Product [ID=1, name=cheese omelette, price=10.0, expirationString=11/11/27]"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.280",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "1"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.280",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "addProduct",
+  "userID" : "2",
+  "parameters" : "Product [ID=2, name=baguette, price=1.0, expirationString=11/11/28]"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.280",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.281",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "addProduct",
+  "userID" : "2",
+  "parameters" : "Product [ID=3, name=croissant, price=2.0, expirationString=11/11/29]"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.281",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.281",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "addProduct",
+  "userID" : "2",
+  "parameters" : "Product [ID=4, name=pain aux chocolat, price=2.5, expirationString=11/12/01]"
+}
+{
+  "timestamp" : "2022-12-30 17:26:31.281",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:26:36.026",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "diplayProducts",
+  "userID" : "2",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:26:46.410",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:27:20.329",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "addProduct",
+  "userID" : "2",
+  "parameters" : "Product [ID=5, name=burger 4 fromages, price=12.0, expirationString=15/12/2023]"
+}
+{
+  "timestamp" : "2022-12-30 17:27:20.329",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:27:23.577",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "diplayProducts",
+  "userID" : "2",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:27:29.953",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=2, name=ma, age=25, email=ma@gmail.com, password=mama]",
+  "Operation" : "fetchProduct",
+  "userID" : "2",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.612",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=0, name=fresh ground steak, price=20.0, expirationString=11/11/26]"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.631",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "0"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.631",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=1, name=cheese omelette, price=10.0, expirationString=11/11/27]"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.632",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "1"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.632",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=2, name=baguette, price=1.0, expirationString=11/11/28]"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.632",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.632",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=3, name=croissant, price=2.0, expirationString=11/11/29]"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.633",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.633",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=4, name=pain aux chocolat, price=2.5, expirationString=11/12/01]"
+}
+{
+  "timestamp" : "2022-12-30 17:28:25.633",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:28:30.161",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "diplayProducts",
+  "userID" : "momo",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:29:10.209",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of updateProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "updateProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=2, name=baguette, price=2.0, expirationString=12/10/2024]"
+}
+{
+  "timestamp" : "2022-12-30 17:29:10.210",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of deleteProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "deleteProduct",
+  "userID" : "momo",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:29:10.210",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:29:10.210",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=2, name=baguette, price=2.0, expirationString=12/10/2024]"
+}
+{
+  "timestamp" : "2022-12-30 17:29:10.211",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:29:18.625",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "diplayProducts",
+  "userID" : "momo",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:31:06.049",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of updateProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "updateProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=3, name=croissant, price=2.0, expirationString=26/12/2022]"
+}
+{
+  "timestamp" : "2022-12-30 17:31:06.049",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of deleteProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "deleteProduct",
+  "userID" : "momo",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:31:06.050",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:31:06.050",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=3, name=croissant, price=2.0, expirationString=26/12/2022]"
+}
+{
+  "timestamp" : "2022-12-30 17:31:06.050",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:31:43.184",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of updateProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "updateProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=4, name=pain au chocolat, price=3.5, expirationString=31/12/2023]"
+}
+{
+  "timestamp" : "2022-12-30 17:31:43.184",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of deleteProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "deleteProduct",
+  "userID" : "momo",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:31:43.185",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:31:43.185",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "addProduct",
+  "userID" : "momo",
+  "parameters" : "Product [ID=4, name=pain au chocolat, price=3.5, expirationString=31/12/2023]"
+}
+{
+  "timestamp" : "2022-12-30 17:31:43.185",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:31:59.128",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=momo, name=momo, age=23, email=momo@gmail.com, password=momomomo]",
+  "Operation" : "fetchProduct",
+  "userID" : "momo",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.250",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "addProduct",
+  "userID" : "3",
+  "parameters" : "Product [ID=0, name=fresh ground steak, price=20.0, expirationString=11/11/26]"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.269",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "0"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.270",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "addProduct",
+  "userID" : "3",
+  "parameters" : "Product [ID=1, name=cheese omelette, price=10.0, expirationString=11/11/27]"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.270",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "1"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.271",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "addProduct",
+  "userID" : "3",
+  "parameters" : "Product [ID=2, name=baguette, price=1.0, expirationString=11/11/28]"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.271",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "2"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.271",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "addProduct",
+  "userID" : "3",
+  "parameters" : "Product [ID=3, name=croissant, price=2.0, expirationString=11/11/29]"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.271",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.272",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "addProduct",
+  "userID" : "3",
+  "parameters" : "Product [ID=4, name=pain aux chocolat, price=2.5, expirationString=11/12/01]"
+}
+{
+  "timestamp" : "2022-12-30 17:33:27.272",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "4"
+}
+{
+  "timestamp" : "2022-12-30 17:33:30.320",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "diplayProducts",
+  "userID" : "3",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:33:38.272",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "3"
+}
+{
+  "timestamp" : "2022-12-30 17:33:45.376",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:34:16.776",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of addProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "addProduct",
+  "userID" : "3",
+  "parameters" : "Product [ID=5, name=burger cheese, price=15.0, expirationString=31/12/2023]"
+}
+{
+  "timestamp" : "2022-12-30 17:34:16.776",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:34:20.111",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "5"
+}
+{
+  "timestamp" : "2022-12-30 17:34:23.191",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "diplayProducts",
+  "userID" : "3",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:34:24.055",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of diplayProducts",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "diplayProducts",
+  "userID" : "3",
+  "parameters" : "no parameters given"
+}
+{
+  "timestamp" : "2022-12-30 17:34:32.880",
+  "level" : "INFO",
+  "thread" : "main",
+  "logger" : "com.example.tp3.Repository",
+  "message" : "the event of fetchProduct",
+  "userInfo" : "User [ID=3, name=mimi, age=45, email=mimi@gmail.com, password=mimimimi]",
+  "Operation" : "fetchProduct",
+  "userID" : "3",
+  "parameters" : "5"
+}
